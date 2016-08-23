@@ -1,4 +1,4 @@
 
 angular.module('ngZen', [
-  'ngRoute'
+  'ngRoute', 'ui.bootstrap'
 ]);
